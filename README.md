@@ -1,5 +1,6 @@
 # CV_video_classification
-Sibur Challenge 2023 // Генерализация
+Sibur Challenge 2023 // Генерализация  
+https://platform.aitoday.ru/event/9
 
 ## **Задача**  
 Необходимо создать модель распознавания действий с вагон-цистерной на эстакаде, которая пошагово отслеживает жизненный цикл вагон-цистерны (въезд на эстакаду, подготовка к сливу, слив, подготовка к отъезду, выезд поезда и т. д.).
@@ -18,4 +19,7 @@ train_in_out - класс "въезд/выезд цистерны".
 ## **Результат**
 F1 =	0.989044 (public)  
 F1 = 0.983771 (private)  
-8ое место https://platform.aitoday.ru/event/9
+место 8 / 60    
+
+![image](https://github.com/SofiaKhutsieva/CV_video_classification/assets/73535658/d18ccccc-7dbd-4bf9-8630-5bcc4316c326)
+
